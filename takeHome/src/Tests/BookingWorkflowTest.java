@@ -5,6 +5,8 @@ import PageObjects.searchResultsPage;
 import Util.BaseHelper;
 import org.testng.annotations.Test;
 
+import javax.naming.directory.SearchResult;
+
 public class BookingWorkflowTest extends BaseHelper {
 
     @Test
@@ -13,9 +15,10 @@ public class BookingWorkflowTest extends BaseHelper {
 
         goToWebPage(SEARCH_PAGE_URL);
         //Added because the SEARCH URL suddenly was searching for Ballagio instead of Paris
-        searchResultsPage.editSearchCriteria("Paris");
+        editTextBox(searchResultsPage.SEARCH_TEXT_BOX, "Paris");
         searchResultsPage.runSearch();
         searchResultsPage.goToHotelDetailsPage();
         firstHotelDetailsPage.reserveHotel();
+        wait(10);
     }
 }

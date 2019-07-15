@@ -42,4 +42,10 @@ public class BaseHelper {
         ((JavascriptExecutor) browser).executeScript("arguments[0].scrollIntoView(true);", element);
         Thread.sleep(500);
     }
+
+    protected static void editTextBox(String textBoxSelector, String text)
+    {
+        browser.findElement(By.cssSelector(textBoxSelector)).clear();
+        browser.findElement(By.cssSelector(textBoxSelector)).sendKeys(text);
+    }
 }
