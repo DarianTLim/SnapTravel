@@ -2,47 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aab0c725-cb25-4af5-a938-1012922ada41" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_25_0_jre.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_14_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_extras_beanshell_bsh_2_0b6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_14_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/takeHome/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/animal_sniffer_annotations_1_14.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/animal_sniffer_annotations_1_14.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/takeHome/out/production/takeHome/META-INF/takeHome.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/takeHome/out/production/takeHome/PageObjects/firstHotelDetailsPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/takeHome/out/production/takeHome/PageObjects/searchResultsPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/takeHome/out/production/takeHome/Tests/BookingWorkflowTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/takeHome/out/production/takeHome/Util/BaseHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/takeHome/src/PageObjects/firstHotelDetailsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/takeHome/src/PageObjects/firstHotelDetailsPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/takeHome/src/PageObjects/firstHotelReservationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/takeHome/src/PageObjects/firstHotelReservationPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/takeHome/src/PageObjects/searchResultsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/takeHome/src/PageObjects/searchResultsPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/takeHome/src/Tests/BookingWorkflowTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/takeHome/src/Tests/BookingWorkflowTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/takeHome/src/Util/BaseHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/takeHome/src/Util/BaseHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/takeHome/target/classes/PageObjects/firstHotelReservationPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/takeHome/target/classes/PageObjects/firstHotelReservationPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/takeHome/target/classes/Util/BaseHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/takeHome/target/classes/Util/BaseHelper.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/takeHome/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -59,11 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/takeHome/src/Tests/BookingWorkflowTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="20" column="44" lean-forward="true" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+            <state relative-caret-position="300">
+              <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -87,7 +49,7 @@
         <entry file="file://$PROJECT_DIR$/takeHome/src/PageObjects/firstHotelReservationPage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="795">
-              <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+              <caret line="53" selection-start-line="53" selection-end-line="53" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -104,10 +66,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/takeHome/src/Util/BaseHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-414">
+            <state relative-caret-position="120">
               <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
               <folding>
                 <element signature="e#907#908#0" expanded="true" />
@@ -207,7 +169,7 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563588599097" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563588874914" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Problems" />
@@ -347,9 +309,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="firstHotelReservationPage_test - 2019.07.19 at 21h 28m 15s.xml">
-      <configuration name="firstHotelReservationPage.test" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="firstHotelReservationPage_test - 2019.07.19 at 21h 29m 15s.xml">
       <configuration name="firstHotelReservationPage.test" configurationId="TestNG" />
     </history-entry>
@@ -377,6 +336,9 @@
     <history-entry file="BookingWorkflowTest_searchTest_(1) - 2019.07.19 at 22h 06m 14s.xml">
       <configuration name="BookingWorkflowTest.searchTest (1)" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="BookingWorkflowTest_searchTest_(1) - 2019.07.19 at 22h 12m 38s.xml">
+      <configuration name="BookingWorkflowTest.searchTest (1)" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
@@ -391,8 +353,8 @@
       <window_info id="Favorites" order="6" sideWeight="0.50120485" side_tool="true" weight="0.2532189" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.47524753" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.5007072" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.47524753" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5007072" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -441,27 +403,7 @@
     <entry file="file://$PROJECT_DIR$/takeHome/src/PageObjects/firstHotelReservationPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="795">
-          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/takeHome/src/Tests/BookingWorkflowTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="20" column="44" lean-forward="true" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/takeHome/src/PageObjects/searchResultsPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -477,13 +419,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/takeHome/src/Util/BaseHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-414">
+        <state relative-caret-position="120">
           <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
           <folding>
             <element signature="e#907#908#0" expanded="true" />
             <element signature="e#979#980#0" expanded="true" />
             <element signature="e#1031#1032#0" expanded="true" />
             <element signature="e#1063#1064#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/takeHome/src/PageObjects/searchResultsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/takeHome/src/Tests/BookingWorkflowTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
