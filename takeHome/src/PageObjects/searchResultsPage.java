@@ -1,7 +1,6 @@
 package PageObjects;
 
 import Util.BaseHelper;
-import org.openqa.selenium.By;
 import java.util.ArrayList;
 
 public class searchResultsPage extends BaseHelper {
@@ -13,6 +12,7 @@ public class searchResultsPage extends BaseHelper {
 
     public static void runSearch() {
         clickOn(SEARCH_BUTTON);
+        System.out.println("Search Succesfully Submitted");
     }
 
     public static void goToHotelDetailsPage() {
@@ -21,6 +21,7 @@ public class searchResultsPage extends BaseHelper {
         //switches to new tab
         ArrayList<String> tabs = new ArrayList<String> (browser.getWindowHandles());
         browser.switchTo().window(tabs.get(1));
+        System.out.println("Loading Hotel and Room Details, Rates and Availabilities");
     }
 }
 

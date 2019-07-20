@@ -4,11 +4,9 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
-
-
 import java.lang.*;
 import java.util.concurrent.TimeUnit;
 
@@ -17,8 +15,9 @@ public class BaseHelper {
 
     @BeforeClass
     protected static void setupBrowser(){
-        System.setProperty("webdriver.chrome.driver","Drivers/chromedriver");
-        browser = new ChromeDriver();
+        System.setProperty("webdriver.gecko.driver", "Drivers/geckodriver");
+        browser = new FirefoxDriver();
+
         //accounts for pages loading
         browser.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
     }

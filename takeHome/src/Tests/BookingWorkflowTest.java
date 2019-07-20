@@ -2,10 +2,9 @@ package Tests;
 
 import PageObjects.firstHotelDetailsPage;
 import PageObjects.searchResultsPage;
+import PageObjects.firstHotelReservationPage;
 import Util.BaseHelper;
 import org.testng.annotations.Test;
-
-import javax.naming.directory.SearchResult;
 
 public class BookingWorkflowTest extends BaseHelper {
 
@@ -19,6 +18,7 @@ public class BookingWorkflowTest extends BaseHelper {
         searchResultsPage.runSearch();
         searchResultsPage.goToHotelDetailsPage();
         firstHotelDetailsPage.reserveHotel();
-        wait(10);
+        firstHotelReservationPage.fillAndSubmitGuestDetails();
+        firstHotelReservationPage.fillAndSubmitCreditCardDetails();
     }
 }

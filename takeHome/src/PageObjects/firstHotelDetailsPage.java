@@ -10,6 +10,7 @@ public class firstHotelDetailsPage extends BaseHelper {
     public static void reserveHotel() throws Exception{
         scrollToElement(RESERVE_HOTEL_BUTTON);
         clickOn(RESERVE_HOTEL_BUTTON);
+        System.out.println("Navigating to Room Reservation Page...");
     }
 }
 
